@@ -1,8 +1,6 @@
-# Lecture Assessments
+# Authentication
 
-
-
-### 1: Encoding and Decoding JWT Tokens
+### Self Assessment 1: Encoding and Decoding JWT Tokens
 
 Choose either the node or ruby option for this assessment.
 
@@ -18,7 +16,7 @@ Choose either the node or ruby option for this assessment.
 
 
 
-### 2: Saving Variables in localStorage
+### Self Assessment 2: Saving Variables in localStorage
 
 * Open `index.html` in your code editor and your browser
 * Save the `importantVariable` as `importantVariable` in local storage
